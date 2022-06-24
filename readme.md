@@ -4,4 +4,4 @@
 
 ## Exemplo de tabela de campeonato brasileiro feita com HTML
 
-<img src="ptTrabalho.PNG" alt="Exemplo de tabela do Campeonato Brasileiro">
+<img src="tabelaBr.PNG" alt="Exemplo de tabela do Campeonato Brasileiro">
